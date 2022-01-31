@@ -18,8 +18,13 @@ Can then be filtered by Excel using:
 Best 1st and 2nd letter was also attempted by ranking each word according to letter frequency of all other Wordle solutions.
 
 
-Wordle accepted words taken from: https://github.com/hannahcode/wordle/blob/main/src/constants/validGuesses.ts
-Wordle solutions taken from: https://github.com/hannahcode/wordle/blob/main/src/constants/wordlist.ts
-Scrabble dataset for 5 letter words and score: https://wordfind.com/length/5-letter-words/
-Word frequency dataset: https://www.kaggle.com/rtatman/english-word-frequency
-Letter frequency data: https://en.wikipedia.org/wiki/Letter_frequency
+Wordle accepted words taken from: 
+https://github.com/hannahcode/wordle/blob/main/src/constants/validGuesses.ts
+Wordle solutions taken from: 
+https://github.com/hannahcode/wordle/blob/main/src/constants/wordlist.ts
+Scrabble dataset for 5 letter words and score: 
+https://wordfind.com/length/5-letter-words/
+Word frequency dataset: 
+https://www.kaggle.com/rtatman/english-word-frequency
+Letter frequency data: 
+https://en.wikipedia.org/wiki/Letter_frequency
